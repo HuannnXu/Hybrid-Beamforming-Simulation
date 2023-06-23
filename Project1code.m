@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 %Project 1
-%Huan Xu, Zhaozhenzi Wang
+%Huan Xu
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Problem 1
 % parameter setting for result 1
